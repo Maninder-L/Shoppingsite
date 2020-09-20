@@ -1,0 +1,32 @@
+.ProductDetails{
+    margin-top: 90px;
+    float: right;
+    width: 800px;
+    
+    
+}
+h6{
+    font-size: 30px;
+    font-family: serif;
+}
+li{
+    font-size: 20px;
+    padding-left: 20px;
+    font-family:'Times New Roman', Times, serif;
+}
+.Back{
+    font-size: 25px;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+ 
+}
+.Back a{
+ decoration: none;
+}
+.Product{
+    margin-top: 75px;
+clear: both;
+float: left;
+
+}
